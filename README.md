@@ -13,3 +13,14 @@ List the manager of each department with the following information: department n
 
 List in /outputs/Problem3.csv
 
+List the department of each employee with the following information: employee number, last name, first name, and department name.
+
+List in /outputs/Problem4.csv
+
+List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+
+List in /outputs/Problem5.csv
+
+List all employees in the Sales department, including their employee number, last name, first name, and department name.
+
+List in /outputs/Problem6.csv
