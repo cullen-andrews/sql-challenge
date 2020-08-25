@@ -1,5 +1,9 @@
 # sql-challenge
 
+
+
+
+
 List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 List in /outputs/Problem1.csv
@@ -24,3 +28,11 @@ List in /outputs/Problem5.csv
 List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
 List in /outputs/Problem6.csv
+
+List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
+List in /outputs/Problem7.csv
+
+In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+List in /outputs/Problem8.csv
